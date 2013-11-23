@@ -1,6 +1,7 @@
 [{
     "type": "Feature",
     "properties": {
+    "name": "اردبیل",
     "id": 19
     },
     "geometry": {
@@ -10,6 +11,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "بوشهر",
     "id": 13
     },
     "geometry": {
@@ -19,6 +21,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "چهارمحال و بختیاری",
     "id": 28
     },
     "geometry": {
@@ -28,6 +31,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "آذربایجان شرقی",
     "id": 5
     },
     "geometry": {
@@ -37,6 +41,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "اصفهان",
     "id": 32
     },
     "geometry": {
@@ -46,6 +51,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "فارس",
     "id": 3
     },
     "geometry": {
@@ -55,6 +61,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "گیلان",
     "id": 8
     },
     "geometry": {
@@ -64,6 +71,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "گلستان",
     "id": 20
     },
     "geometry": {
@@ -73,6 +81,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "همدان",
     "id": 30
     },
     "geometry": {
@@ -82,6 +91,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "هرمزگان",
     "id": 23
     },
     "geometry": {
@@ -91,6 +101,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "ایلام",
     "id": 11
     },
     "geometry": {
@@ -100,6 +111,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "کرمان",
     "id": 22
     },
     "geometry": {
@@ -109,6 +121,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "کرمانشاه",
     "id": 29
     },
     "geometry": {
@@ -118,6 +131,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "خوزستان",
     "id": 21
     },
     "geometry": {
@@ -127,6 +141,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "کهگیلویه و بویراحمد",
     "id": 26
     },
     "geometry": {
@@ -136,6 +151,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "کردستان",
     "id": 24
     },
     "geometry": {
@@ -145,6 +161,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "لرستان",
     "id": 12
     },
     "geometry": {
@@ -154,6 +171,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "مرکزی",
     "id": 2
     },
     "geometry": {
@@ -163,6 +181,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "مازندران",
     "id": 7
     },
     "geometry": {
@@ -172,6 +191,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "خراسان شمالی",
     "id": 16
     },
     "geometry": {
@@ -181,6 +201,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "قزوین",
     "id": 33
     },
     "geometry": {
@@ -190,6 +211,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "قم",
     "id": 14
     },
     "geometry": {
@@ -199,6 +221,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "خراسان رضوی",
     "id": 15
     },
     "geometry": {
@@ -208,6 +231,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "سمنان",
     "id": 18
     },
     "geometry": {
@@ -217,6 +241,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "سیستان و بلوچستان",
     "id": 9
     },
     "geometry": {
@@ -226,6 +251,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "خراسان جنوبی",
     "id": 17
     },
     "geometry": {
@@ -235,6 +261,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "تهران",
     "id": 1
     },
     "geometry": {
@@ -244,6 +271,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "آذربایجان غربی",
     "id": 6
     },
     "geometry": {
@@ -253,6 +281,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "یزد",
     "id": 4
     },
     "geometry": {
@@ -262,6 +291,7 @@
     }, {
     "type": "Feature",
     "properties": {
+    "name": "زنجان",
     "id": 27
     },
     "geometry": {
